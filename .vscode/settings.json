@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "01_Lista_sequencial.C": "cpp"
+    }
+}
