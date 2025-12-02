@@ -2,6 +2,7 @@
 
 #define MAX 100
 
+// Aluno : Andre Werlang Menegazzo
 
 // Estrutura da Lista Sequencial
 
